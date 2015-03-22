@@ -11,8 +11,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Following are submitted:
 - README.md
-- tidy data set tidy_data.txt 
+- tidy data set tidy_data.txt. 
 The output of the 5th step is called tidy_data.txt, and uploaded in the project's form
-- one R script called run_analysis.R
+- one R script called run_analysis.R.
 It contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 - a code book that describes the variables, the data, and any transformations or work performed to clean up the data called CodeBook.md
