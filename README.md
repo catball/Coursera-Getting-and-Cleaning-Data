@@ -11,6 +11,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Following are submitted:
 - README.md
-- tidy data set
+- tidy data set tidy_data.txt
 - one R script called run_analysis.R
 - a code book that describes the variables, the data, and any transformations or work performed to clean up the data called CodeBook.md
